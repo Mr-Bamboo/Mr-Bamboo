@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 I am a Ph.D. student in the [LEVIR lab.](http://levir.buaa.edu.cn/) at [Beihang University](https://www.buaa.edu.cn/), advised by Prof. [Zhenwei Shi](http://levir.buaa.edu.cn/) and Prof. [Zhengxia Zou](https://zhengxiazou.github.io/). Previously, I received my bachelor’s degree from [China University of Petroleum (East China)](https://www.upc.edu.cn/) in June 2022. My research involves **computer vision**, **remote sensing image processing**, and **super-resolution**.
 
 ## 🔭 Homepages
-Google Scholar: https://scholar.google.com/citations?user=DvfYtXIAAAAJ
-Personal Page: https://mr-bamboo.github.io/
+- Google Scholar: https://scholar.google.com/citations?user=DvfYtXIAAAAJ
+- Personal Page: https://mr-bamboo.github.io/
 
 ## 📰 News
 
